@@ -56,7 +56,7 @@ export function Hero() {
       <div className="hero-image">
         <ScrollAnimation animateIn="fadeInRight" delay={1 * 1000}>
           {/* <img src={Illustration} alt="Full stack engineering illustration" /> */}
-          <img src="Images\home_image.jpg" alt="Mohd Ashraf Azmi" />
+          <img src="Images\profile-circle.webp" alt="Mohd Ashraf Azmi" />
         </ScrollAnimation>
       </div>
     </Container>

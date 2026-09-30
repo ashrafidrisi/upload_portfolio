@@ -20,7 +20,7 @@ export function About() {
     <Container id="about">
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.21 * 1000}>
-          <img src="Images\profile-circle.webp" alt="Mohd Ashraf Azmi" />
+          <img src="Images\profile_2.jpg" alt="Mohd Ashraf Azmi" />
         </ScrollAnimation>
       </div>
       <div className="about-text">

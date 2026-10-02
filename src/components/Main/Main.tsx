@@ -6,8 +6,8 @@ import { Hero } from "../Hero/Hero";
 import { About } from "../About/About";
 import { Contact } from "../Contact/Contact";
 import { Project } from "../Project/Project";
-import python from "../../assets/python.svg"
-import java from "../../assets/java.svg"
+
+
 import wordpress from "../../assets/wordpress.svg";
 import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
@@ -188,16 +188,8 @@ export function Main() {
                 //   "width": 20,
                 //   "height": 20
                 // },
-                {
-                  "src": python,
-                  "width": 20,
-                  "height": 20
-                },
-                {
-                  "src": java,
-                  "width": 20,
-                  "height": 20
-                },
+                
+               
                 {
                   "src": reactIcon,
                   "width": 20,
